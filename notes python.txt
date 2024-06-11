@@ -1,0 +1,43 @@
+variable is a data name and it is used to store the data value.                                       Lab2@156825
+
+Rules for declaring variable
+
+1. Variable Name must start with an alphabet.
+2. Uppercase & Lowercase are significant.
+3. Keywords are not as variable.
+4. Space is not allowed between variable name.
+
+
+
+1. if simple
+
+if condition:
+	statement
+
+2. if else
+
+if condition:
+	statement
+else:
+	statement
+
+3. nested if
+
+if condition:
+	if condition:
+		statement
+	else:
+		statement
+else:
+	statement
+
+4. Ladder if
+
+if condition:
+	statement
+elif condition:
+	statement
+elif condition:
+	statement
+else:
+	statement
