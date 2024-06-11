@@ -20,7 +20,7 @@ for i in s:
 
 
 print("Upper Case = ", uc)        
-print("Upper Case = ", uc)
-print("Upper Case = ", uc)
-print("Upper Case = ", uc)
-print("Upper Case = ", uc) 
+print("Lower Case = ", lc)
+print("Space = ", sp)
+print("Alpha  = ", al)
+print("Numericals = ", nm) 
